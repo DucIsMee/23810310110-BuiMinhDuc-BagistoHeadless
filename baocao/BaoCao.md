@@ -39,4 +39,4 @@ Dùng `Query` cho hành động ghi là **sai về ngữ nghĩa** và vi phạm 
 
 ---
 
-*Họ tên: Nguyễn Văn A — MSSV: 21XXXXXXXX*
+*Họ tên: Bùi Minh Đức — MSSV: 23810310110*
