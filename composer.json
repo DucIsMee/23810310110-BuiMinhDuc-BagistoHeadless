@@ -1,0 +1,19 @@
+{
+    "name": "sinhvien/bagisto-headless-project",
+    "description": "Bagisto Headless Commerce Frontend - Thực hành GraphQL API",
+    "type": "project",
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "scripts": {
+        "start": "php -S localhost:8080 -t public/"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
